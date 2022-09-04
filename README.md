@@ -6,5 +6,5 @@
 * Высокая скорость поиска
 * Низкая цена
 
-! [logo] (https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png)
+! [logo] (https://raw.githubusercontent.com/netology-ds-team/git-homeworks/main/1_self/logo.png)
 
